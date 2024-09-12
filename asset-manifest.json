@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Pom-Full-stack-developer-portfolio/static/css/main.b120aa04.css",
+    "main.js": "/Pom-Full-stack-developer-portfolio/static/js/main.5a3d3117.js",
+    "static/js/453.3f88c84b.chunk.js": "/Pom-Full-stack-developer-portfolio/static/js/453.3f88c84b.chunk.js",
+    "index.html": "/Pom-Full-stack-developer-portfolio/index.html",
+    "main.b120aa04.css.map": "/Pom-Full-stack-developer-portfolio/static/css/main.b120aa04.css.map",
+    "main.5a3d3117.js.map": "/Pom-Full-stack-developer-portfolio/static/js/main.5a3d3117.js.map",
+    "453.3f88c84b.chunk.js.map": "/Pom-Full-stack-developer-portfolio/static/js/453.3f88c84b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b120aa04.css",
+    "static/js/main.5a3d3117.js"
+  ]
+}
