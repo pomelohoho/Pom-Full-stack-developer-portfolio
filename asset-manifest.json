@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Pom-Full-stack-developer-portfolio/static/css/main.b120aa04.css",
-    "main.js": "/Pom-Full-stack-developer-portfolio/static/js/main.ab1f3ea1.js",
+    "main.css": "/Pom-Full-stack-developer-portfolio/static/css/main.b2eccd24.css",
+    "main.js": "/Pom-Full-stack-developer-portfolio/static/js/main.935c41fb.js",
     "static/js/453.3f88c84b.chunk.js": "/Pom-Full-stack-developer-portfolio/static/js/453.3f88c84b.chunk.js",
     "index.html": "/Pom-Full-stack-developer-portfolio/index.html",
-    "main.b120aa04.css.map": "/Pom-Full-stack-developer-portfolio/static/css/main.b120aa04.css.map",
-    "main.ab1f3ea1.js.map": "/Pom-Full-stack-developer-portfolio/static/js/main.ab1f3ea1.js.map",
+    "main.b2eccd24.css.map": "/Pom-Full-stack-developer-portfolio/static/css/main.b2eccd24.css.map",
+    "main.935c41fb.js.map": "/Pom-Full-stack-developer-portfolio/static/js/main.935c41fb.js.map",
     "453.3f88c84b.chunk.js.map": "/Pom-Full-stack-developer-portfolio/static/js/453.3f88c84b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b120aa04.css",
-    "static/js/main.ab1f3ea1.js"
+    "static/css/main.b2eccd24.css",
+    "static/js/main.935c41fb.js"
   ]
 }
