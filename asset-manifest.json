@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Pom-Full-stack-developer-portfolio/static/css/main.f4ea3488.css",
-    "main.js": "/Pom-Full-stack-developer-portfolio/static/js/main.ff4af427.js",
+    "main.js": "/Pom-Full-stack-developer-portfolio/static/js/main.151f129d.js",
     "static/js/453.3f88c84b.chunk.js": "/Pom-Full-stack-developer-portfolio/static/js/453.3f88c84b.chunk.js",
     "index.html": "/Pom-Full-stack-developer-portfolio/index.html",
     "main.f4ea3488.css.map": "/Pom-Full-stack-developer-portfolio/static/css/main.f4ea3488.css.map",
-    "main.ff4af427.js.map": "/Pom-Full-stack-developer-portfolio/static/js/main.ff4af427.js.map",
+    "main.151f129d.js.map": "/Pom-Full-stack-developer-portfolio/static/js/main.151f129d.js.map",
     "453.3f88c84b.chunk.js.map": "/Pom-Full-stack-developer-portfolio/static/js/453.3f88c84b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f4ea3488.css",
-    "static/js/main.ff4af427.js"
+    "static/js/main.151f129d.js"
   ]
 }
